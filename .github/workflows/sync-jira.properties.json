@@ -1,0 +1,6 @@
+{
+	"name": "Sync with Jira",
+	"description": "Espressif GitHub -> Jira sync",
+	"iconName": "sync-jira",
+	"categories": ["Espressif","Jira", "Python"]
+}
